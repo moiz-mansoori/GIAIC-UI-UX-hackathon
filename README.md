@@ -1,6 +1,6 @@
 # Next.js Project
 
-This is a Next.js project bootstrapped with `create-next-app`.
+This project is built using Next.js, created with `create-next-app`. The layout and design of this application are based on a Figma design template.
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ You can start editing the application by modifying the `app/page.tsx` file. The 
 
 ### Fonts
 
-This project uses `next/font` to automatically optimize and load Inter, a custom Google Font, enhancing performance and typography.
+This project uses the next/font package to automatically optimize and load the "Inter" font, which is a custom Google Font. This ensures optimal font performance and better typography throughout the application.
 
 ## Learn More
 
@@ -40,5 +40,11 @@ This project includes detailed comments throughout the codebase to improve under
 
 ---
 
-Feel free to reach out if you have any questions or suggestions for improvement. Happy coding!
+## Contributing
+If you would like to contribute to this project, feel free to fork the repository, make improvements, or submit bug reports. Pull requests are welcome!
+
+
+
+
+
 
